@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Isuru</h1>
 <h3 align="center">A passionate Java developer from Sri Lanka</h3>
 
