@@ -18,14 +18,14 @@ I am Isuru Pramod Mawella Vithanage. An adaptable, energetic and self
 </p>
 
 ```python
-class AbhigyanTrips():
+class IsuruVithanage():
     
   def __init__(self):
-    self.name = "Abhigyan Tripathi";
-    self.username = "abhigyantrips";
-    self.location = "Mumbai, India";
-    self.twitter = "@abhigyantrips";
-    self.web = "https://abhigyantrips.dev";
+    self.name = "Isuru Vithanage";
+    self.username = "isuruVithanage";
+    self.location = "Galle, Sri Lanka";
+    self.twitter = "@__Isuru__";
+    self.web = "https://isuruvithanage.github.io/MyProfile/";
   
   def __str__(self):
     return self.name
