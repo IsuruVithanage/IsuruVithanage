@@ -2,9 +2,9 @@
   <b>Isuru Vithanage</b>
 </h1>
 
-Heya! I'm Abhigyan Tripathi, a student currently living in Mumbai, India. I'm preparing for 
-<a href="https://en.wikipedia.org/wiki/Joint_Entrance_Examination">JEE</a>, 
-and learning programming through small projects  on the side.
+I am Isuru Pramod Mawella Vithanage. An adaptable, energetic and self
+                motivated student seeking in an opportunity to enhance the knowledge
+                on software engineering.
 
 <br>
 
