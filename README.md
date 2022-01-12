@@ -38,14 +38,12 @@ if __name__ == '__main__':
 
 <br/>
 <p align="left">
-  <a href="">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=IsuruVithanageps&show_icons=true&theme=gruvbox&hide_border=true" />
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=IsuruVithanage&theme=gruvbox&hide_border=true" />
-  </a>
 </p>
 <br>
 
-[![Isuru Vithanage' Activity Graph](https://activity-graph.herokuapp.com/graph?username=IsuruVithanage&custom_title=Isuru%20Vithanage's%20Contribution%20Graph&theme=gruvbox&bg_color=247bff&hide_border=true&line=d1a01f&point=c58545)]
+[![Isuru Vithanage' Activity Graph](https://activity-graph.herokuapp.com/graph?username=IsuruVithanage&custom_title=Isuru%20Vithanage's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
 
 ------
 
