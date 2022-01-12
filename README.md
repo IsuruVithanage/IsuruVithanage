@@ -45,7 +45,7 @@ if __name__ == '__main__':
 </p>
 <br>
 
-[![Isuru Vithanage' Activity Graph](https://activity-graph.herokuapp.com/graph?username=IsuruVithanage&custom_title=Abhigyan%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
+[![Isuru Vithanage' Activity Graph](https://activity-graph.herokuapp.com/graph?username=IsuruVithanage&custom_title=Isuru%20Vithanage's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)]
 
 ------
 
