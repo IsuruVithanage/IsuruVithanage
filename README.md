@@ -9,7 +9,7 @@ I am Isuru Pramod Mawella Vithanage. An adaptable, energetic and self
 <br>
 
 <p align="center">
-![My_Movie_1_MOV_AdobeCreativeCloudExpress](https://user-images.githubusercontent.com/38922397/149563737-82ef8db9-9d0c-4265-a03d-43acee1828ea.gif)
+  <img src="https://user-images.githubusercontent.com/38922397/149563737-82ef8db9-9d0c-4265-a03d-43acee1828ea.gif" alt="animated" />
 </p>
 
 <p>
